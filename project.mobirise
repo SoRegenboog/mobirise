@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SO Regenboog",
-    "currentPage": "page13.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1091,7 +1091,8 @@
               "text-align": "center"
             },
             "H5": {
-              "color": "#bb128d"
+              "color": "#bb128d",
+              "text-align": "center"
             }
           },
           "_name": "header12",
